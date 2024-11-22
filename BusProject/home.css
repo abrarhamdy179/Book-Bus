@@ -1,0 +1,20 @@
+.headimg {
+    margin-top: 66px;
+    margin-right: 5px;
+    margin-left: 600px;
+    margin-bottom: 25px;
+}
+
+.Right_Seat {
+    padding-left: 290px;
+    width: 111px;
+    margin-top: 40px;
+}
+
+.Left_Seat {
+    padding-left: 820px;
+    width: 111px;
+    margin-top: -317px;  
+}
+
+/*-240*/
